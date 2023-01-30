@@ -1,2 +1,1 @@
-# lchamp87x.github.io
-Personal Webpage
+Source for personal website.
